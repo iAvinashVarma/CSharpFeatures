@@ -8,6 +8,7 @@ namespace CSharp4.Tests.Parameter
 	{
 		// Arrange
 		private readonly decimal expected = 38.46M;
+
 		private readonly decimal previous = 78000.00M;
 		private readonly decimal current = 108000.00M;
 

@@ -48,7 +48,5 @@ namespace CSharp4.Parameter
 		{
 			return new KeyValuePair<T, string>(key: genKey, value: string.Format("{0}", "Generic"));
 		}
-
-
 	}
 }

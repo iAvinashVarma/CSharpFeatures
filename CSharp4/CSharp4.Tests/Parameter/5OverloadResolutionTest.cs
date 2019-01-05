@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using CSharp4.Parameter;
+﻿using CSharp4.Parameter;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
 
 namespace CSharp4.Tests.Parameter
 {

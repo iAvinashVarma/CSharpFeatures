@@ -8,7 +8,7 @@ namespace CSharp4.Parameter
 
 		public virtual decimal IncrementPercent(decimal previous, decimal current)
 		{
-			var change = current - previous;
+			decimal change = current - previous;
 			return Math.Round(change / previous * 100, 2);
 		}
 	}
