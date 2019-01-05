@@ -31,12 +31,12 @@ v4.7.2
     <tr>
         <td>1.0</td>
         <td>Managed Code</td>
-        <td><ul><li>- [ ]</li></ul></td>
+        <td>No</td>
     </tr>
     <tr>
         <td rowspan="3">2.0</td>
         <td>Generics</td>
-        <td rowspan="3"><ul><li>- [ ]</li></ul></td>
+        <td rowspan="3">No</td>
     </tr>
     <tr>
         <td>Anonymous Method</td>
@@ -47,7 +47,7 @@ v4.7.2
     <tr>
         <td rowspan="6">3.0</td>
         <td>Lambda Expressions</td>
-        <td rowspan="6"><ul><li>- [ ]</li></ul></td>
+        <td rowspan="6">No</td>
     </tr>
     <tr>
         <td>Extension Methods</td>
@@ -67,7 +67,7 @@ v4.7.2
     <tr>
         <td rowspan="4">4.0</td>
         <td>Late Binding (dynamic)</td>
-        <td rowspan="4"><ul><li>- [x]</li></ul></td>
+        <td rowspan="4">Yes</td>
     </tr>
     <tr>
         <td>Named Arguments</td>
@@ -81,7 +81,7 @@ v4.7.2
     <tr>
         <td rowspan="2">5.0</td>
         <td>Async Feature</td>
-        <td rowspan="2"><ul><li>- [ ]</li></ul></td>
+        <td rowspan="2">No</td>
     </tr>
     <tr>
         <td>Caller Information</td>
