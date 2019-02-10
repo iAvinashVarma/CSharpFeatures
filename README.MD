@@ -13,7 +13,7 @@ CSharpFeatures contains group of C# version features, features evolved from C# 3
 
 ## IDE
 
-Visual Studio 2019
+Visual Studio 2017
 
 ---
 
