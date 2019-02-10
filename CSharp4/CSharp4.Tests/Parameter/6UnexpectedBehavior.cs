@@ -1,4 +1,4 @@
-﻿using CSharp4.Parameter;
+﻿using CSharp4.Parameter.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CSharp4.Tests.Parameter

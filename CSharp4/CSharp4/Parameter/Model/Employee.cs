@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp4.Parameter
+namespace CSharp4.Parameter.Model
 {
 	public class Employee
 	{
