@@ -69,6 +69,7 @@ namespace CSharp4.Tests.Dynamic
 		}
 
 		[TestMethod]
+		[ExpectedException(typeof(RuntimeBinderException))]
 		public void TestDynamic005()
 		{
 			// Arrange

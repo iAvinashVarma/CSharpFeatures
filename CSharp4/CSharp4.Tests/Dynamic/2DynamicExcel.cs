@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Runtime.InteropServices;
 using Excel = Microsoft.Office.Interop.Excel;
 
 namespace CSharp4.Tests.Dynamic
@@ -7,6 +8,7 @@ namespace CSharp4.Tests.Dynamic
 	public class _2DynamicExcel
 	{
 		[TestMethod]
+		[ExpectedException(typeof(COMException))]
 		public void TestExcelMethod001()
 		{
 			Excel.Application excel = new Excel.Application();

@@ -5,7 +5,11 @@ CSharpFeatures contains group of C# version features, features evolved from C# 3
 ![apm](https://img.shields.io/apm/l/vim-mode.svg)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/iAvinashVarma) [![Twitter Follow](https://img.shields.io/twitter/follow/iAvinashVarma.svg?style=social&label=Follow)](https://twitter.com/iAvinashVarma)
 ![GitHub followers](https://img.shields.io/github/followers/iAvinashVarma.svg?style=flat-square&label=Follow)
+<<<<<<< HEAD
 [![Build status](https://avvarma.visualstudio.com/ProgLan/_apis/build/status/CSharpFeatures?branchName=master)](https://avvarma.visualstudio.com/ProgLan/_build/latest?definitionId=11)
+=======
+[![Build status](https://avvarma.visualstudio.com/ProgLan/_apis/build/status/CSharpFeatures?branchName=5.0)](https://avvarma.visualstudio.com/ProgLan/_build/latest?definitionId=11)
+>>>>>>> 945648b6ab20fcd807f77dc269e65f663baf1e4a
 [![Feature Requests](https://img.shields.io/github/issues/iAvinashVarma/CSharpFeatures/feature-request.svg)](https://github.com/iAvinashVarma/CSharpFeatures/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 [![Bugs](https://img.shields.io/github/issues/iAvinashVarma/CSharpFeatures/bug.svg)](https://github.com/iAvinashVarma/CSharpFeatures/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 

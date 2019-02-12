@@ -3,6 +3,7 @@ using CSharp5.AsyncWay.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace CSharp5.Tests.AsyncWay
@@ -11,6 +12,7 @@ namespace CSharp5.Tests.AsyncWay
 	public class _1PeopleTest
 	{
 		[TestMethod]
+		[ExpectedException(typeof(HttpRequestException))]
 		public async Task TestPeopleMethod001()
 		{
 			// Arrange
